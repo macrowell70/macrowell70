@@ -1,5 +1,7 @@
 ### Hi my name is Mitch 👋
 
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQEncav6bcHJQw/profile-displaybackgroundimage-shrink_350_1400/0/1657928718979?e=1663200000&v=beta&t=sVvm8Qyc1WWXRgNTH8QcuLbI9QVzBSxiua_eD63cSng" alt="Personalized Banner" />
+
 I am a full stack web developer with a background in banking and financial services. I am well versed in JavaScript, CSS, and HTML, along with front end and back end frameworks such as React and Node. I am interested in creating new and inovative software for all fields with a particular interest in the FinTech industry.
 
 If you would like to get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/macrowell/) or email me at macrowell70@gmail.com
