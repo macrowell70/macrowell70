@@ -1,6 +1,6 @@
 ### Hi my name is Mitch 👋
 
-I am a full stack web developer with a background in banking and financial services. I am well versed in JavaScript, CSS, and HTML, along with front end and back end frameworks such as React and Node. I am interested in creating new and inovative software for all fields with a particular interest in the FinTech industry. I am currently working on completing my web development education at BloomTech, expecting to complete my courses in September of this year (2022)
+I am a full stack web developer with a background in banking and financial services. I am well versed in JavaScript, CSS, and HTML, along with front end and back end frameworks such as React and Node. I am interested in creating new and inovative software for all fields with a particular interest in the FinTech industry.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/macrowell/) or email me at macrowell70@gmail.com
 
