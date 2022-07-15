@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi my name is Mitch 👋
+
+I am a full stack web developer with a background in banking and financial services. I am well versed in JavaScript, CSS, and HTML, along with front end and back end frameworks such as React and Node. I am interested in creating new and inovative software for orginizations in the FinTech industry.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/macrowell/) or email me at macrowell70@gmail.com
 
 <!--
 **macrowell70/macrowell70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
