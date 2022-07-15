@@ -2,7 +2,7 @@
 
 I am a full stack web developer with a background in banking and financial services. I am well versed in JavaScript, CSS, and HTML, along with front end and back end frameworks such as React and Node. I am interested in creating new and inovative software for all fields with a particular interest in the FinTech industry.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/macrowell/) or email me at macrowell70@gmail.com
+If you would like to get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/macrowell/) or email me at macrowell70@gmail.com
 
 <!--
 **macrowell70/macrowell70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
